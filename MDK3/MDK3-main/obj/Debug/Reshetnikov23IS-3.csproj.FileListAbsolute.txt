@@ -1,0 +1,11 @@
+C:\Users\student\Downloads\MDK3-main (1)\MDK3-main\obj\Debug\Reshetnikov23IS-3.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\MDK3-main (1)\MDK3-main\obj\Debug\Reshetnikov23IS-3.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Downloads\MDK3-main (1)\MDK3-main\obj\Debug\Reshetnikov23IS_3.Form1.resources
+C:\Users\student\Downloads\MDK3-main (1)\MDK3-main\obj\Debug\Reshetnikov23IS-3.csproj.GenerateResource.cache
+C:\Users\student\Downloads\MDK3-main (1)\MDK3-main\bin\Debug\Reshetnikov23IS-3.exe.config
+C:\Users\student\Downloads\MDK3-main (1)\MDK3-main\bin\Debug\Reshetnikov23IS-3.exe
+C:\Users\student\Downloads\MDK3-main (1)\MDK3-main\bin\Debug\Reshetnikov23IS-3.pdb
+C:\Users\student\Downloads\MDK3-main (1)\MDK3-main\obj\Debug\Reshetnikov23IS_3.Properties.Resources.resources
+C:\Users\student\Downloads\MDK3-main (1)\MDK3-main\obj\Debug\Reshetnikov23IS-3.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\MDK3-main (1)\MDK3-main\obj\Debug\Reshetnikov23IS-3.exe
+C:\Users\student\Downloads\MDK3-main (1)\MDK3-main\obj\Debug\Reshetnikov23IS-3.pdb
